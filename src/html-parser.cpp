@@ -1,3 +1,13 @@
+/*
+Student Name: Chris Koenig
+Program Name: HTML Parser
+Creation Date: Spring 2021 (date unknown)
+Last Modified Date: Spring 2021 (date unknown)
+CSCI Course: CSCI 315
+Grade Received: (unknown)
+Design Comments: (n/a)
+*/
+
 #include "html-parser.hpp"
 #include <iostream>
 #include <fstream>
